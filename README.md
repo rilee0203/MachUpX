@@ -12,7 +12,7 @@ W. F. Phillips, "Flow over Multiple Lifting Surfaces," *Mechanics of Flight*, 2n
 J. T. Reid and D. F. Hunsaker, "A General Approach to Lifting-Line Theory, Applied to Wings with Sweep," *AIAA SciTech Forum*, Orlando, 2020.
 
 ## Documentation
-Documentation can be found at [ReadTheDocs](https://machupx.readthedocs.io). Please refer to the documentation for instructions on installation, etc. Specific help with package functions can also be found in the docstrings. Please read the documentation thoroughly before contacting the development team.
+Documentation can be found at [ReadTheDocs](https://machupx.readthedocs.io). Please  to the documentation for instructions on installation, etc. Specific help with package functions can also be found in the docstrings. Please read the documentation thoroughly before contacting the development team.
 
 Check out our introduction video [here](https://youtu.be/KLZWTqD8GhM).
 
